@@ -12,7 +12,7 @@ setup(
 
     version = '3.2',
     url = 'https://github.com/GarsonQuiCourt/signals_vis', #Github link
-    download_url = 'https://github.com/GarsonQuiCourt/signals_vis/archive/refs/tags/0.tar.gz',#No need to change
+    download_url = 'https://github.com/GarsonQuiCourt/signals_vis/archive/refs/tags/1.tar.gz',#No need to change
     keywords = ['get_url', 'download'],
     include_package_data=True,
     long_description=readme(),
